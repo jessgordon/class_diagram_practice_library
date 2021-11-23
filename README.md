@@ -1,6 +1,8 @@
 # Practicing Class Diagrams: Library exercise
 
-Task: in pairs, create a Class diagram from the user stories provided, and then translate this into code and test in irb. Reflect on the process.
+## Task
+
+ In pairs, create a Class diagram from the user stories provided, and then translate this into code and test in irb. Reflect on the process.
 
 ## User Stories
 
